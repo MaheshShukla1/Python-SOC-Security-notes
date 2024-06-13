@@ -1,10 +1,8 @@
-# Python-Modules
-
-## [Requests Basics to Intermediate](https://github.com/MaheshShukla1/Python-Modules/wiki/Python-Requests-basics-to-intermediate)
-
 # SOC Modules for Python 🛡️
 
 Welcome to the SOC (Security Operations Center) Modules repository for Python! This repository provides a comprehensive collection of Python modules tailored for SOC analysts and cybersecurity professionals, enhancing security monitoring, incident detection, and response capabilities.
+
+## [Python Requests: Guide to HTTP Requests and Response Handling](https://github.com/MaheshShukla1/Python-SOC-Modules-Security-Monitoring-Incident-Response/wiki/Python-Requests:-Guide-to-HTTP-Requests-and-Response-Handling)
 
 ## Table of Contents 📚
 - [Introduction](#introduction)
@@ -13,6 +11,8 @@ Welcome to the SOC (Security Operations Center) Modules repository for Python! T
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [New Section](#new-section)
+
 
 ## Introduction 🚀
 In today's cybersecurity landscape, Security Operations Centers (SOCs) play a vital role in safeguarding organizations against threats. This repository aims to empower SOC teams with robust Python modules designed to streamline security operations and bolster incident response efforts.
