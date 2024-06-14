@@ -22,7 +22,7 @@ To get started with SOC Modules for Python, follow these simple installation ste
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/MaheshShukla1/Python-SOC-Modules-Security-Monitoring-Incident-Response.git
-   cd Python-Soc-Modules-Security-Monitoring-Incident-Response
+   cd Python-SOC-Modules-Security-Monitoring-Incident-Response
 
 ## Usage 🖥️
 Once installed, you can leverage the SOC modules by importing them into your Python scripts. Here's a quick example of how to use a module
