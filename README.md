@@ -6,6 +6,8 @@ Welcome to the SOC (Security Operations Center) Modules repository for Python! T
 
 ## [Python Requests: Session & Response Objects Explained](https://github.com/MaheshShukla1/Python-SOC-Security-notes/wiki/Python-Requests:-Session-&-Response-Objects-Explained)
 
+## [Python Requests: Working with Prepared Requests and SSL Certificate Verification](https://github.com/MaheshShukla1/Python-SOC-Security-notes/wiki/Python-Requests:-Working-with-Prepared-Requests-and-SSL-Certificate-Verification)
+
 ## Introduction
 In today's cybersecurity landscape, Security Operations Centers (SOCs) play a vital role in safeguarding organizations against threats. This repository empowers SOC teams with robust Python modules to streamline security operations and bolster incident response efforts.
 
