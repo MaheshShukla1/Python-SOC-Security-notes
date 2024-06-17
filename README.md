@@ -4,7 +4,7 @@ Welcome to the SOC (Security Operations Center) Modules repository for Python! T
 
 ## [Python Requests: Guide to HTTP Requests and Response Handling](https://github.com/MaheshShukla1/Python-SOC-Modules-Security-Monitoring-Incident-Response/wiki/Python-Requests:-Guide-to-HTTP-Requests-and-Response-Handling)
 
-## [Python Requests: Session & Response object explained](https://github.com/MaheshShukla1/Snort-IDS-Configuration-Rules-and-Examples/wiki/Snort-Rules%3A-A-Comprehensive-Guide/_edit)
+## [Python Requests: Session & Response Objects Explained](https://github.com/MaheshShukla1/Python-SOC-Security-notes/wiki/Python-Requests:-Session-&-Response-Objects-Explained)
 
 ## Introduction
 In today's cybersecurity landscape, Security Operations Centers (SOCs) play a vital role in safeguarding organizations against threats. This repository empowers SOC teams with robust Python modules to streamline security operations and bolster incident response efforts.
